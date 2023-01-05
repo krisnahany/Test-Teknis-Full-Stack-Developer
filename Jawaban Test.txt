@@ -1,0 +1,20 @@
+Jawaban Penilaian Teknis Full Stack Developer:
+1. SEO
+>>
+Menurut saya kondisi SEO dari website https://virtudigilab.com/ sudah baik, yang dapat dilihat dari beberapa faktor:
+1. Saat menginputkan beberapa keyword di pencarian google, website sudah muncul di halaman pertama pencarian google
+2. Saat loading website pertama kali, gambar tidak semuanya terdownload, hanya yang muncul di viewport yang di download. setelah scroll, gambar yg masuk ke viewport baru di download sehingga tidak memberatkan website
+3. Deskripsi pada atribut img alt sudah terisi karena atribut alt pada img bisa muncul saat pencarian google images
+4. Tag title dan meta description relevan dengan isi konten
+5. Semantic element yang digunakan sudah sesuai
+
+Menurut saya yang bisa dilakukan untuk mempercepat load hari halaman website tersebut adalah dengan mengubah format gambar menjadi WebP
+
+------------------------------------------------------------------------------------------------------------------------------------
+3. Javascript + HTML
+>> https://jsfiddle.net/krisnahany/eLfxsw4z/
+
+------------------------------------------------------------------------------------------------------------------------------------
+Problem Solving
+>>
+2. Untuk mencegah race condition, proses-proses yang berjalan bersamaan harus di disinkronisasi
